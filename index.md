@@ -1,18 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/xiaolidai/xiaoli.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+## 欢迎来到小李的世界
+我来自湖南，目前在上海艾诺科广州分公司工作，我是一名销售，这也是我的第一份工作，虽然很不喜欢，但是也要坚持
+### 刘茹玲
+她是我的大学同学，在宿舍关系最好的，经常一起玩，现在我们选择一起工作，一起合租，虽然有时候气死人，但是我已经习惯他了，希望现在能成为更好的同事和朋友
+# 王华 -----一个大傻逼
+大学同学 加现在同事 就这样
+# 黄莹  
 ### Header 3
 
 - Bulleted
